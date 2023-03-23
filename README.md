@@ -1,7 +1,7 @@
 <h1>Projeto Landing Page</h1>
 <br>
 <br>
-<h2>Criei esse projeto para aprimorar meus conhecimento e colocar mais a mão na massa</h2>
+<h2>Criei esse projeto para aprimorar meus conhecimentos e colocar mais a mão na massa</h2>
 <br>
 <h3>Nesse projeto utilizei HTML e CSS e coloquei em prática o responsividade</h3>
 

@@ -6,3 +6,7 @@
 <h3>Nesse projeto utilizei HTML e CSS e coloquei em prática o responsividade</h3>
 
 <img src="https://github.com/MatheusPereira033/Landing_Page/blob/master/img/print_tela.png?raw=true">
+<br>
+<br>
+<br>
+<img src="https://github.com/MatheusPereira033/Landing_Page/blob/master/img/print_tela_responsivo.png?raw=true">
